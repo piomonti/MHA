@@ -1,5 +1,7 @@
 # Python implementation of Monti Hyv&auml;rinen Analysis (MHA)
 
+Jupyter notebook provides details regarding proposed model and provides an example application to resting-state fMRI data 
+
 ### Requirements
  - python 3
  - nilearn 

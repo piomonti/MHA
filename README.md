@@ -15,4 +15,4 @@ Jupyter notebook provides details regarding proposed model and provides an examp
 ### References
 Monti & Hyv&auml;rinen, ["A Unified Probabilistic Model for Learning Latent Factors and Their Connectivities from High-Dimensional Data"](https://arxiv.org/abs/1805.09567), UAI 2018
 
-Monti et al., "Interpretable brain age prediction using linear latent variable models of functional connectivity", under review 2019
+Monti et al., ["Interpretable brain age prediction using linear latent variable models of functional connectivity"](https://arxiv.org/abs/1908.01555), under review 2019
